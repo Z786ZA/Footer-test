@@ -10,8 +10,7 @@
     <td align="center" width="33%" style="padding:10px;">
       <img src="media/review1.gif" alt="Review 1" width="100%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
       <p style="font-size:14px; line-height:1.5; color:#444; margin:0 15px;">
-        “This scraper helped me gather thousands of Facebook posts effortlessly.  
-        The setup was fast, and exports are super clean and well-structured.”
+        “Bitbash is a top-tier automation partner — innovative, reliable, and dedicated to delivering real results every time.”
       </p>
       <p style="margin:10px 0 0; font-weight:600;">Nathan Pennington  
         <br><span style="color:#888;">Marketer</span>  
@@ -21,10 +20,9 @@
     <td align="center" width="33%" style="padding:10px;">
       <img src="media/review2.gif" alt="Review 2" width="100%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
       <p style="font-size:14px; line-height:1.5; color:#444; margin:0 15px;">
-        “What impressed me most was how accurate the extracted data is.  
-        Likes, comments, timestamps — everything aligns perfectly with real posts.”
+        “Bitbash delivers outstanding quality, speed, and professionalism — truly a team you can rely on.”
       </p>
-      <p style="margin:10px 0 0; font-weight:600;">Greg Jeffries  
+      <p style="margin:10px 0 0; font-weight:600;">Eliza  
         <br><span style="color:#888;">SEO Affiliate Expert</span>  
         <br><span style="color:#f5a623;">★★★★★</span>
       </p>
@@ -32,10 +30,9 @@
     <td align="center" width="33%" style="padding:10px;">
       <img src="media/review3.gif" alt="Review 3" width="100%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
       <p style="font-size:14px; line-height:1.5; color:#444; margin:0 15px;">
-        “It’s by far the best Facebook scraping tool I’ve used.  
-        Ideal for trend tracking, competitor monitoring, and influencer insights.”
+        “Exceptional results, clear communication, and flawless delivery — Bitbash nailed it.”
       </p>
-      <p style="margin:10px 0 0; font-weight:600;">Karan  
+      <p style="margin:10px 0 0; font-weight:600;">Syed 
         <br><span style="color:#888;">Digital Strategist</span>  
         <br><span style="color:#f5a623;">★★★★★</span>
       </p>
